@@ -19,6 +19,9 @@ public class Main {
       else if(ans2.equals("blue")){
         System.out.println("We can order it");
       }
+      else if(ans2.equals("yellow")){
+        System.out.println("You have a yellow car");
+      }
     }
     else {
       System.out.println("No worries have a good day");
